@@ -6,3 +6,4 @@ second commit
 tercer commit
 cuarto commit
 final commit
+new no conflict
